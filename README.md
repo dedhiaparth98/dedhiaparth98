@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am currently implementing various Deep Learning and Computer Vision algorithms. I also like designing systems and would like to develop a Microservice architecture. Feel free to contact me for backend engineer or Deep Learning Engineer.
+
+About me: I like reading novels, painting, and trekking
+
+You could always reach me at ![LinkedIn](https://in.linkedin.com/in/parth-dedhia)
 
 <!--
 **dedhiaparth98/dedhiaparth98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
