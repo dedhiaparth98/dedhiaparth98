@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently implementing various Deep Learning and Computer Vision algorithms. I also like designing systems and would like to develop a Microservice architecture. Feel free to contact me for backend engineer or Deep Learning Engineer.
+I am currently implementing various Deep Learning and Computer Vision algorithms. I also like designing systems and would like to develop a Microservice architecture. Feel free to contact me for Backend or Deep Learning Projects.
 
 About me: I like reading novels, painting, and trekking
 
