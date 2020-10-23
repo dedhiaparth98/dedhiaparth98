@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am currently implementing various Deep Learning and Computer Vision algorithms. I also like designing microservices. Feel free to contact me for Backend or Deep Learning Projects.
+I am currently implementing various Deep Learning and Computer Vision algorithms. I also enjoy learning python and implementing various libraries that makes development fast and fun.
 
-About me: I like reading novels, painting, and trekking
+About me: I like reading novels, painting, playing keyboard, and trekking
 
 You could always reach me at 📫 [LinkedIn](https://in.linkedin.com/in/parth-dedhia)
 
